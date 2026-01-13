@@ -7,11 +7,12 @@ Unlike existing apps that rely on fixed schedules, this system uses **actual GPS
 
 ## 🎯 Problem Statement
 
-Current train apps (like m-Indicator) mainly show **timetables**, not real-time positions.
+Current train apps (like m-Indicator) mainly show **timetables**, not real-time positions.These systems rely mainly on fixed schedules and manual updates, which fail to reflect real-time train movements.
 This leads to:
 * Confusion about delays
 * Uncertainty about platforms
 * Poor travel planning
+There is a need for a Train Tracking System that uses live GPS data to continuously monitor the actual position of trains and provide accurate, real-time information to passengers and railway authorities through a digital interface.
 Our project solves this by using **live GPS data** to track trains accurately.
 
 ## 💡 Ideation & Research (with AI Tools)
