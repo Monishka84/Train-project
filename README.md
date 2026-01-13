@@ -12,6 +12,7 @@ This leads to:
 * Confusion about delays
 * Uncertainty about platforms
 * Poor travel planning
+  
 There is a need for a Train Tracking System that uses live GPS data to continuously monitor the actual position of trains and provide accurate, real-time information to passengers and railway authorities through a digital interface.
 Our project solves this by using **live GPS data** to track trains accurately.
 
